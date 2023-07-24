@@ -1,3 +1,7 @@
+## BEFORE YOU GO
+Selfbots are strictly against the Discord Terms of Service. Using this application is basically screaming: "BAN ME NOW, DISCORD!"
+
+Do whatever at your own risk. Just saying once again that if anybody doesn't like you and they send an email to abuse@discordapp.com, say goodbye to your account
 # BOSI
 
 Bosi is a discord.js v13 selfbot made for fun and troll, that can spam from a **.txt** file every single line, it's nothing complicated with command handlers and all other shits.
@@ -30,3 +34,5 @@ A --> C(urat)
 B --> D{fraier sarac}
 C --> D
 ```
+
+## USE AT OWN RISK ⚠️.
