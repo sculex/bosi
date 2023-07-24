@@ -35,4 +35,4 @@ B --> D{fraier sarac}
 C --> D
 ```
 
-## USE AT OWN RISK ⚠️.
+## USE AT OWN RISK ⚠️
