@@ -4,7 +4,7 @@ Selfbots are strictly against the Discord Terms of Service. Using this selfbot i
 Do whatever at your own risk. Just saying once again that if anybody doesn't like you and they send an email to abuse@discordapp.com, say goodbye to your account
 # BOSI
 
-Bosi is a discord.js v13 selfbot made for fun and troll, that can spam from a **.txt** file every single line, it's nothing complicated with command handlers and all other shits.
+Bosi is a discord.js v13 selfbot made for fun and troll that can spam from a **.txt** file every single line, it's nothing complicated with command handlers and all other shits.
 
 # Setup
 is the easiest part and can be completed in a few steps:
@@ -16,7 +16,7 @@ is the easiest part and can be completed in a few steps:
 
 ## Start Bosi SelfBot
 
-You can start **Bosi** by opening **CMD(Windows Command Prompt)** or **Windows Powershell** or **Visual Studio Code** in the folder where you have the **selfbot.js** file and type **node .** or **node selfbot.js**. If you're on MacOS(losers like me) open **Terminal** or **Visual Studio Code** and follow the earlier steps.
+You can start **Bosi** by opening **CMD(Windows Command Prompt)** or **Windows Powershell** or **Visual Studio Code's Terminal** in the folder where you have the **selfbot.js** file and type **node .** or **node selfbot.js**. If you're on MacOS(losers like me) open **Terminal** or **Visual Studio Code's Terminal** and follow the earlier steps.
 
 
 ```mermaid
