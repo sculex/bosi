@@ -36,3 +36,4 @@ C --> D
 ```
 
 ## USE AT OWN RISK ⚠️
+## IF you like my project press the `star` button. Thanks
