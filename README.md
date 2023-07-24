@@ -9,7 +9,7 @@ Bosi is a discord.js v13 selfbot made for fun and troll, that can spam from a **
 # Setup
 is the easiest part and can be completed in a few steps:
 - Make sure you have [nodejs.org](https://nodejs.org/) installed.
-- Edit the `config.json` file with your token and your token from the account you want to run selfbot
+- Edit the `config.json` file with your id and your token from the account you want to run selfbot
 - Run **npm install** command.
 
 	> If npm install isn't installing certain packages use direct argument: **npm install discord.js-selfbot-v13**
