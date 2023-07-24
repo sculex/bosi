@@ -1,5 +1,5 @@
 ## BEFORE YOU GO
-Selfbots are strictly against the Discord Terms of Service. Using this application is basically screaming: "BAN ME NOW, DISCORD!"
+Selfbots are strictly against the Discord Terms of Service. Using this selfbot is basically screaming: "BAN ME NOW, DISCORD!"
 
 Do whatever at your own risk. Just saying once again that if anybody doesn't like you and they send an email to abuse@discordapp.com, say goodbye to your account
 # BOSI
