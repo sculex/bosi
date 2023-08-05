@@ -9,19 +9,19 @@ Bosi is a discord.js v13 selfbot made for fun and troll that can spam from a **.
 # Setup
 is the easiest part and can be completed in a few steps:
 - Make sure you have [nodejs.org](https://nodejs.org/) installed.
-- Edit the `config.json` file with your id and your token from the account you want to run selfbot
+- Edit the `config.json` file with the channel id where you want to spam that **bad guy**
 - Run **npm install** command.
 
-	> If npm install isn't installing certain packages use direct argument: **npm install discord.js-selfbot-v13**
+	> If npm install isn't installing certain packages use direct argument: **npm install discord.js-selfbot-v13 axios**
 
 ## Start Bosi SelfBot
 
-You can start **Bosi** by opening **CMD(Windows Command Prompt)** or **Windows Powershell** or **Visual Studio Code's Terminal** in the folder where you have the **selfbot.js** file and type **node .** or **node selfbot.js**. If you're on MacOS(losers like me) open **Terminal** or **Visual Studio Code's Terminal** and follow the earlier steps.
+You can start **Bosi** by opening **CMD(Windows Command Prompt)** or **Windows Powershell** or **Visual Studio Code's Terminal** in the folder where you have the **selfbot.js** file and type **node .** or **node bosi.js**. If you're on MacOS(losers like me) open **Terminal** or **Visual Studio Code's Terminal** and follow the earlier steps.
 
 
 ```mermaid
 graph LR
-A[sculex] ---> B((sarac))
+A[sculex] ---> B((frumos))
 A --> C(bogat)
 B --> D{bos}
 C --> D
@@ -34,6 +34,3 @@ A --> C(urat)
 B --> D{fraier sarac}
 C --> D
 ```
-
-## USE AT OWN RISK ⚠️
-## IF you like my project press the `star` button. Thanks
